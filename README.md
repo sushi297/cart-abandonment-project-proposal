@@ -2,6 +2,9 @@
 
 ## Digital Retail Customer Behavior Study
 
+> Part 1 of a multi-stage cart abandonment analytics project.  
+> Next stage: Exploratory Data Analysis and Customer Behavior Analysis.
+
 This project proposal defines an analytics plan for understanding **low purchase conversion and cart abandonment in digital retail**.
 
 The project was designed around a practical business problem: e-commerce platforms collect large amounts of customer behavior data, but businesses may still struggle to understand why customers browse products, add items to carts, and then leave without completing a purchase.
